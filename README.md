@@ -1,3 +1,35 @@
+# NFTBrowser
+**NFT Price Visualization (React, JS, AntD, Rechart, MoralisApi)** 
+1. Build a NFT dashboard to search and view and analyze NFT assets
+2. Leverage AntD UI Component Library to boost client side development
+3. Leverage Moralis NFT API to fetch NFT relevant data (price, name, description etc.)
+4. Build NFT trade / price chart UI with recharts  
+
+Application Domain: https://prod.dguj9m2poj0e6.amplifyapp.com  
+
+
+
+
+
+     
+          
+              
+                  
+
+
+
+    
+
+
+
+    
+
+
+      
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
